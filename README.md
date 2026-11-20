@@ -125,4 +125,4 @@ Philosophers, scientists and programmers are all welcome. A clearly stated theor
 
 ## Author
 
-[Manu Herrán](https://manuherran.com/) · [Sentience Research](https://sentience-research.org/)
+[Manu Herrán](https://manuherran.com/) · [Sentience Research](https://sentience-research.org/) · [Unbiased Machine](https://unbiasedmachine.com/)
